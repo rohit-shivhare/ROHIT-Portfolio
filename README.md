@@ -9,9 +9,6 @@ Original Template Repository: [MoncyDev/Portfolio-Website](https://github.com/Mo
 
 React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
 
----
-
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
 
 
 
