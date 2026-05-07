@@ -48,14 +48,7 @@ const Contact = () => {
               Twitter <MdArrowOutward />
             </a>
           </div>
-          <div className="contact-box">
-            <h2>
-              Designed and Developed <br /> by <span>Rohit Shivhare</span>
-            </h2>
-            <h5>
-              <MdCopyright /> 2024
-            </h5>
-          </div>
+
         </div>
       </div>
     </div>
