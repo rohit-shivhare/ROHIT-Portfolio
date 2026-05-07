@@ -52,6 +52,9 @@ const Contact = () => {
             <h2>
               Designed and Developed <br /> by <span>Rohit Shivhare</span>
             </h2>
+            <p style={{ marginTop: "10px", fontSize: "12px", color: "#888" }}>
+              Based on a template by <a href="https://github.com/MoncyDev" target="_blank" style={{textDecoration:"underline"}}>Moncy Yohannan</a>
+            </p>
             <h5>
               <MdCopyright /> 2024
             </h5>

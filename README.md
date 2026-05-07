@@ -5,6 +5,13 @@ Feel free to explore the code and use it for learning and inspiration.
 
 ---
 
+## 🌟 Acknowledgments / Credits
+
+This portfolio was personalized by Rohit Shivhare but is originally based on an open-source template generously provided by **Moncy Yohannan**.
+Original Template Repository: [MoncyDev/Portfolio-Website](https://github.com/MoncyDev/Portfolio-Website)
+
+---
+
 ## ⚠️ Usage Notice
 
 This project is shared for learning purposes only.
